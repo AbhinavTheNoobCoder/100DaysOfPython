@@ -56,5 +56,4 @@ with open("Record.txt", "r") as f:
     f.close()
 
 with open("Record.txt", "w") as f:
-    for record in leaderboard:
-        f.write(record)
+    f.writelines(leaderboard)
