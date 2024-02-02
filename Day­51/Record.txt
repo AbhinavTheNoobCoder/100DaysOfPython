@@ -1,0 +1,5 @@
+Leaderboard for Range 1-100: [Player name - Turns taken to win]
+Name - 7
+
+Leaderboard for Range 100-1000: [Player name - Turns taken to win]
+Name - 7
